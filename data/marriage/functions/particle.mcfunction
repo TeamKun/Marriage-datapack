@@ -1,0 +1,10 @@
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force
+particle minecraft:composter ~ ~ ~ 3 3 3 1 10 force

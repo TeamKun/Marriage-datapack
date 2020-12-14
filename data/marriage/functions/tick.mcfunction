@@ -1,0 +1,1 @@
+execute if entity @a[scores={marriage=1},limit=1] if entity @a[scores={marriage=2},limit=1] run function marriage:run
